@@ -1,5 +1,5 @@
 # exodus-Vizualizer
-Analytical Visualization of  [exodus-privacy report.](https://github.com/Exodus-Privacy/exodus)
+Analytical/Visualization usecase of [exodus-privacy report.](https://github.com/Exodus-Privacy/exodus)
 
 ## Run Instruction
 
